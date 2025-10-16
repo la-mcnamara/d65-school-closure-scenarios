@@ -1,0 +1,6 @@
+Along,From,To,Type,Grade Level,Control,Speed/Traffic,Road Width,Score,Score w/ crossing guard,Threshold for IDOT approval
+Dempster,Crawford,Ridge,III,5,Traffic Signals,35mph / 2270,54.8 ft,13,11.5,12
+Golf,Crawford,McCormick,III,5,Traffic Signals,35mph / 2320,46.1 ft,13,11.5,12
+Emerson,McCormick,Ridge,III,5,Traffic Signals,30mph / 1060,47 ft,12,10.5,12
+McCormick,Dempster,Green Bay,III,5,Traffic Signals,40mph / 1990,50 ft,13,11.5,12
+Green Bay,Isabella,Ridge,III,5,Traffic Signals,30mph / 1015,65 ft,12,10.5,12
