@@ -1,5 +1,5 @@
 # d65-school-closure-scenarios
-Double checking the D65 School Closure Scenarios
+Double checking the D65 school closure scenarios
 
 # Data
 Data is sourced from the School Deficit Reduction Plan (SDRP) Data Hub: https://www.district65.net/about/budget-finance/structural-deficit-reduction-plan
