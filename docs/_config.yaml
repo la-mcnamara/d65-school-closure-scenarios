@@ -1,6 +1,8 @@
 name: Legion of Nerds
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-remote-theme
 remote_theme: pmarsceill/just-the-docs
 
 domain: la-mcnamara.github.io/d65-school-closure-scenarios/       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
