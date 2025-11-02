@@ -3,5 +3,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
+# gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 gem "just-the-docs"
