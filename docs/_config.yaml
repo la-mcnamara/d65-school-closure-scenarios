@@ -3,7 +3,7 @@ url: https://la-mcnamara.github.io/d65-school-closure-scenarios/  # the base hos
 baseurl: d65-school-closure-scenarios/docs     # place folder name if the site is served in a subfolder
 
 name: Legion of Nerds
-markdown: kramdown
+#markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 #theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
