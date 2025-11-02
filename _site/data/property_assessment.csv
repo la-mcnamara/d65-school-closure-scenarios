@@ -1,0 +1,14 @@
+School,REC,FIN Low ($M),FIN High ($M),Feasibility (1-10),Developer Sentiment (1-10),Comp. Score
+Bessie Rhodes,Sell,$3.5,$4.5,6.4,6.0,5.9
+Dawes,Sell,$2.0,$3.0,5.2,6.0,5.1
+Dewey,Sell,$4.0,$5.0,5.5,6.0,5.5
+King Arts,Sell,$4.5,$5.5,7.3,2.0,6.5
+Kingsley,Sell,$4.5,$5.5,7.8,10.0,7.7
+Lincoln,Re-Use,$9.0,$10.0,7.6,10.0,8.7
+Lincolnwood,Sell,$4.0,$5.0,6.4,6.0,5.7
+Oakton,Re-Use,$7.5,$8.5,6.5,6.0,8.2
+Orrington,Re-Use,$5.0,$6.0,5.6,4.0,6.0
+Park School,Sell,$2.5,$3.5,7.2,10.0,6.8
+Walker,Re-Use,$8.0,$9.0,5.1,4.0,5.9
+Washington,Sell,$5.5,$6.5,6.5,1.0,6.5
+Willard,Re-Use,$8.0,$9.0,5.8,4.0,6.7
