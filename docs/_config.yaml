@@ -10,8 +10,8 @@ remote_theme: just-the-docs/just-the-docs
 
 #remote_theme: pmarsceill/just-the-docs
 # remote_theme: tomjoht/documentation-theme-jekyll
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 
 
