@@ -5,8 +5,8 @@ baseurl: d65-school-closure-scenarios/docs     # place folder name if the site i
 name: Legion of Nerds
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: just-the-docs
-#remote_theme: just-the-docs/just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 #remote_theme: pmarsceill/just-the-docs
 # remote_theme: tomjoht/documentation-theme-jekyll
