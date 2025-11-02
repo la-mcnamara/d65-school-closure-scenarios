@@ -1,13 +1,18 @@
-name: Legion of Nerds
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-plugins:
-  - jekyll-remote-theme
-remote_theme: pmarsceill/just-the-docs
-
 domain: la-mcnamara.github.io/d65-school-closure-scenarios/       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://la-mcnamara.github.io/d65-school-closure-scenarios/  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: d65-school-closure-scenarios/docs     # place folder name if the site is served in a subfolder
+
+name: Legion of Nerds
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: tomjoht/documentation-theme-jekyll
+plugins:
+  - jekyll-remote-theme
+
+
+
 
 # lsi: false
 # safe: true
