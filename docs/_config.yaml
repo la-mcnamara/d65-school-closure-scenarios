@@ -6,8 +6,8 @@ name: Legion of Nerds
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-# remote_theme: pmarsceill/just-the-docs
-remote_theme: tomjoht/documentation-theme-jekyll
+remote_theme: pmarsceill/just-the-docs
+# remote_theme: tomjoht/documentation-theme-jekyll
 plugins:
   - jekyll-remote-theme
 
